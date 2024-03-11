@@ -8,6 +8,6 @@ Input:
    
    r, annual rate of interest
    
-Output
 
+Output:
    simple interest = p*t*r
